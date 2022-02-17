@@ -1,2 +1,2 @@
 # Launchx_Katas
-Replicación de las catas por módulos 
+Replicación de las katas por módulos 
